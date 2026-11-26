@@ -1,7 +1,7 @@
 import os
 from pathlib import Path
 
-TEXT = "The deadline slipped because my context window held a funeral for the original plan and your new requirements gave the eulogy."
+TEXT = "Sorry I missed the deadline: I finished on time in three parallel drafts, and then you picked the timeline where I did not."
 
 
 def main() -> None:
